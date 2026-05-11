@@ -8,7 +8,7 @@
 
 Bölüm : Bilgisayar Mühendisliği
 
-Youtube Linki : 
+Youtube Linki : https://youtu.be/So3SuY0qj74
 
 #  Proje Özeti 
 
