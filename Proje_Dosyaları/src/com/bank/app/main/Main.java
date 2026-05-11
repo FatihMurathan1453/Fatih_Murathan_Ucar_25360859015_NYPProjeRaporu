@@ -20,7 +20,6 @@ public class Main {
         System.out.println("\n"); //güzel gözüksün diye araya boşluk
 
         //1-Müşteri Oluşturma
-        // UML'e göre: ad, soyad, email, telefonNumarasi
         Musteri musteri1 = new Musteri("Ahmet", "Yılmaz", "ahmet.yilmaz@mail.com", 5); //5551234567
         bankaService.musteriOlustur(musteri1);
         System.out.println("Müşteri No: " + musteri1.getMusteriNumarasi());
