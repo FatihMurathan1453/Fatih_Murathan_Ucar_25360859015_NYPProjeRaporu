@@ -10,3 +10,6 @@ Bölüm : Bilgisayar Mühendisliği
 
 Youtube Linki : 
 
+#  Proje Özeti 
+
+Bu projenin amacı nesneye yönelik programlamanın kapsülleme, polimorfizim, inheritence, abstraction gibi özelliklerini kullanarak bir bankanın finansal sistemini nesneye yönelik bir şekilde yazmak.
